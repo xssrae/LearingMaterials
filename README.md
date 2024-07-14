@@ -1,0 +1,1 @@
+This repository is designed to provide resources and materials aimed at studying malware analysis, threat intelligence, and sources for cyber reports. Whether you're a cybersecurity enthusiast, a student, or a professional in the field, you'll find valuable content and tools to deepen your understanding and enhance your skills.
